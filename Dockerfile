@@ -1,5 +1,5 @@
-FROM codemix/yii2-base:2.0.7-apache
-#FROM codemix/yii2-base:2.0.7-php-fpm
+#FROM codemix/yii2-base:2.0.7-apache
+FROM codemix/yii2-base:2.0.7-php-fpm
 #FROM codemix/yii2-base:2.0.7-hhvm
 
 
